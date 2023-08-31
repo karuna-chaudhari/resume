@@ -1,0 +1,61 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+h1:hover{
+    text-shadow: 10px 5px 5px darkblue;
+    color:red;
+    transition: 5s;
+    
+}
+#img{
+    width: 120px;
+    height: 125px;
+}
+#em{
+    text-decoration: none;
+    color: black;
+    display: inline;
+}
+table,th,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px; 
+    table-layout: auto;
+    position: center;
+}
+#sign{
+    width: 100px;
+    height: 50px;
+}
+h5{
+    text-align: right;
+}
+body{
+    background-image: linear-gradient(white,lightgreen,white,lightgreen,white);
+    border: 2px solid black;
+    padding: 36px;
+}
+#pt{
+    padding: 50px;
+    display: inline;
+}
+#img2{
+    text-align: right;
+}
+#p1{
+    text-align: center;
+}
+
+.pro{
+
+    background-image: linear-gradient(aqua,white);
+    text-align: center;
+    
+}
+.bi{
+    display: inline;
+    padding: 120px;
+}
+
